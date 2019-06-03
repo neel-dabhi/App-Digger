@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#fff</color>
+    <color name="colorPrimaryDark">#fff</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="fontColor">#616161</color>
+    <color name="white">#FFF</color>
+    <color name="blackPrimary">#000</color>
+    <color name="bottomAppBar">#6200EE</color>
+
+    <color name="grey_10">#C4C4C4</color>
+    <color name="grey_40">#999999</color>
+
+</resources>
