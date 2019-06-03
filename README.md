@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/neelkanthjdabhi/App-Digger">
-    <img src="https://raw.githubusercontent.com/neelkanthjdabhi/App-Digger/master/appdigger_icon.png" width=80 height=80>
+    <img src="https://raw.githubusercontent.com/neelkanthjdabhi/App-Digger/master/appdigger_icon1.png" width=90 height=119.59>
   </a>
 
   <h3 align="center">App Digger</h3>
