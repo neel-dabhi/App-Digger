@@ -22,19 +22,26 @@ and refresh rate, Battery temperature and voltage etc.
 
 <a name="features"></a>
 ## Features
-- Based on [TDLib](https://github.com/tdlib/td)
-- Secret chats
-- Instant view (now updated with the most recent 2.0)
-- Multi-account
-- Filter chats (users, bots, groups, channels, unread chats and unmuted chats)
-- Calls
-- Videos and photos editor (easily crop photos, set video resultion or remove some parts of the videos before sending them)
-- Drag&drop files to chats to send them quickly
-- Open chats in separated windows (Shift+click)
-- Replace sent media content
-- Polls
-- Backgrounds 2.0 (blurred and motion options available)
-- Built-in app lock (fingerprint and Windows Hello authentication available)
-- Windows My People integration
-- Full support of Windows 10 notifications and Action Centre (reply to a message or mark it as read without opening the app)
-- Accessibility for visually impaired people
+- Lite weight app manager
+- Ability to create shortcuts of local files, folders, applications, settings, contacts and messages.
+- Highly Customizable, user can select icon text, icon label, background color and many more.
+- [Developed with material design components.](https://github.com/material-components/material-components-android)
+- App's direct link to Google Play Store.
+- Provides Device information such as Root Availability, Model, Manufacturer and Android Version.
+- Provides Display information such as Resolution, Screen Density and Refresh Rate.
+- Provides Battery information such as Pecentage, Temperature and Voltage.
+
+<a name="contributing"></a>
+## Contributing
+**Redistributing this app as your own is NOT permitted.**
+Before reporting bugs, doing features requests or embarking pull requests, be sure you have already read [contributing guidelines](https://github.com/neelkanthjdabhi/App-Digger/blob/master/CONTRIBUTING.md).
+
+<a name="changelog"></a>
+## Changelog
+Current version
+Release - 1.0
+
+
+<a name="screenshots"></a>
+## Screenshots
+![Showcase](https://raw.githubusercontent.com/neelkanthjdabhi/App-Digger/master/appdigger_showcase.png)
