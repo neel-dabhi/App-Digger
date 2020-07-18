@@ -47,7 +47,7 @@ Release - 1.0
 ![Showcase](https://raw.githubusercontent.com/neelkanthjdabhi/App-Digger/master/appdigger_showcase.png)
 
 
-##Privacy Policy
+## Privacy Policy
 Neelkanth built the App Digger app as a Free app. This SERVICE is provided by Neelkanth at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
