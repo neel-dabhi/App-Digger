@@ -23,8 +23,6 @@ and refresh rate, Battery temperature and voltage etc.
 <a name="features"></a>
 ## Features
 - Lite weight app manager
-- Ability to create shortcuts of local files, folders, applications, settings, contacts and messages.
-- Highly Customizable, user can select icon text, icon label, background color and many more.
 - [Developed with material design components.](https://github.com/material-components/material-components-android)
 - App's direct link to Google Play Store.
 - Provides Device information such as Root Availability, Model, Manufacturer and Android Version.
