@@ -11,7 +11,7 @@
     <br>
   
   <a href="https://play.google.com/store/apps/details?id=com.neelkanth.appdigger">
-    <img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge-border.png" width=110.7px height=42px>
+    <img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge-border.png" width=221.5px height=84px>
   </a>
 
   </p>
