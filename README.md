@@ -9,7 +9,11 @@
     Simplest App manager for Android.
     <br>
     <br>
-    <a href="https://drive.google.com/file/d/11CSiehHcj4W6gOYAVHOp4aV3z4_buC47/view?usp=sharing">Download APK</a>
+  
+  <a href="https://play.google.com/store/apps/details?id=com.neelkanth.appdigger">
+    <img src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge-border.png" width=110.7px height=42px>
+  </a>
+
   </p>
 </p>
 
